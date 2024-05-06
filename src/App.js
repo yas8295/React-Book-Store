@@ -19,6 +19,7 @@ import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import DarkButton, { Context } from "./components/DarkButton/DarkButton";
 import Tostify from "./components/Toatify/Tostify";
+import NotFound from "./components/NotFound/NotFound";
 
 const App = () => {
   const [ratingList, setRatingList] = useState(
@@ -215,6 +216,18 @@ const App = () => {
                       setRatingList={setRatingList}
                     />
                   </Route>
+                  <Route exact path="/React-Book-Store">
+                    <Products
+                      cart={cart}
+                      products={products}
+                      setWishList={setWishList}
+                      featureProducts={featureProducts}
+                      onAddToCart={handleAddToCart}
+                      handleUpdateCartQty
+                      onRemoveFromCart={handleRemoveFromCart}
+                      setRatingList={setRatingList}
+                    />
+                  </Route>
                   <Route exact path="/cart">
                     <Cart
                       cart={cart}
@@ -276,6 +289,11 @@ const App = () => {
                       setWishList={setWishList}
                       onRemoveFromCart={handleRemoveFromCart}
                     />
+                  </Route>
+                  <Route path="*">
+                    <div className="w-screen h-screen flex flex-col gap-3 justify-center items-center">
+                      <NotFound />
+                    </div>
                   </Route>
                 </Switch>
               </div>

@@ -78,7 +78,7 @@ export default makeStyles((theme) => ({
   },
 
   categorySection: {
-    paddingTop: 100,
+    paddingTop: 50,
     paddingBottom: theme.spacing(2),
   },
 
