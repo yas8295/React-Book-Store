@@ -46,7 +46,7 @@ const Cart = ({ cart, onUpdateCartQty, onRemoveFromCart, onEmptyCart }) => {
         <>
           <Typography variant="subtitle1">
             You have no items in your shopping cart,
-            <Link className={classes.link} to="/">
+            <Link className={classes.link} to="/React-Book-Store">
               {" "}
               start adding some
             </Link>
@@ -100,7 +100,7 @@ const Cart = ({ cart, onUpdateCartQty, onRemoveFromCart, onEmptyCart }) => {
                 }}
                 className={classes.checkoutButton}
                 component={Link}
-                to="/checkout"
+                to="/React-Book-Store/checkout"
                 size="large"
                 type="button"
                 variant="contained"

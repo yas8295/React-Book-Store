@@ -44,7 +44,7 @@ const Checkout = ({ cart, onCaptureCheckout, order, error }) => {
 
           setCheckoutToken(token);
         } catch {
-          if (activeStep !== steps.length) history.push("/");
+          if (activeStep !== steps.length) history.push("/React-Book-Store");
         }
       };
 
@@ -74,7 +74,7 @@ const Checkout = ({ cart, onCaptureCheckout, order, error }) => {
         <Order order={order}></Order>
         <br />
         <Button
-          to="/"
+          to="/React-Book-Store"
           component={Link}
           className="dark:text-white"
           style={{ border: "1px solid #4ea4cd" }}
@@ -95,7 +95,12 @@ const Checkout = ({ cart, onCaptureCheckout, order, error }) => {
       <>
         <Typography variant="h5">Error: {error}</Typography>
         <br />
-        <Button component={Link} variant="outlined" type="button" to="/">
+        <Button
+          component={Link}
+          variant="outlined"
+          type="button"
+          to="/React-Book-Store"
+        >
           Back to home
         </Button>
       </>

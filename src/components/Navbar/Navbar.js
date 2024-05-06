@@ -30,7 +30,7 @@ const Navbar = ({ totalItems, wishList }) => {
         <Toolbar>
           <Typography
             component={Link}
-            to="/"
+            to="/React-Book-Store"
             variant="h5"
             className={`${classes.title} w-fit`}
             color="inherit"
@@ -48,7 +48,7 @@ const Navbar = ({ totalItems, wishList }) => {
           <div className={classes.button}>
             <IconButton
               component={Link}
-              to="/wishlist"
+              to="/React-Book-Store/wishlist"
               aria-label="Show wish List items"
               color="inherit"
             >
@@ -64,7 +64,7 @@ const Navbar = ({ totalItems, wishList }) => {
           <div className={classes.button}>
             <IconButton
               component={Link}
-              to="/cart"
+              to="/React-Book-Store/cart"
               aria-label="Show cart items"
               color="inherit"
             >

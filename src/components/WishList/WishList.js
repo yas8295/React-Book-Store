@@ -31,7 +31,7 @@ const WishList = ({ onAddToCart, cart, onRemoveFromCart }) => {
         <>
           <Typography variant="subtitle1">
             You have no Books in your wishlist,
-            <Link className={classes.link} to="/">
+            <Link className={classes.link} to="/React-Book-Store">
               {" "}
               start adding some
             </Link>

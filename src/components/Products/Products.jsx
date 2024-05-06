@@ -49,9 +49,7 @@ const Products = ({
           width={600}
         />
 
-        <div
-          className={`${classes.heroCont} dark:text-[white!important] mt-5`}
-        >
+        <div className={`${classes.heroCont} dark:text-[white!important] mt-5`}>
           <motion.h1
             initial={{ y: 100, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
@@ -111,7 +109,7 @@ const Products = ({
               viewport={{ once: true }}
               transition={{ duration: 0.4 }}
             >
-              <Link to="manga">
+              <Link to="/React-Book-Store/manga">
                 <button
                   className={classes.categoryButton}
                   style={{ backgroundImage: `url(${mangaBg})` }}
@@ -127,7 +125,7 @@ const Products = ({
               viewport={{ once: true }}
               transition={{ duration: 0.4, delay: 0.2 }}
             >
-              <Link to="biography">
+              <Link to="/React-Book-Store/biography">
                 <button
                   className={classes.categoryButton}
                   style={{ backgroundImage: `url(${bioBg})` }}
@@ -143,7 +141,7 @@ const Products = ({
               viewport={{ once: true }}
               transition={{ duration: 0.4, delay: 0.4 }}
             >
-              <Link to="fiction">
+              <Link to="/React-Book-Store/fiction">
                 <button
                   className={classes.categoryButton}
                   style={{ backgroundImage: `url(${fictionBg})` }}

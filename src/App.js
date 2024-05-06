@@ -204,7 +204,7 @@ const App = () => {
                   handleDrawerToggle={handleDrawerToggle}
                 />
                 <Switch>
-                  <Route exact path="/">
+                  <Route exact path="/React-Book-Store">
                     <Products
                       cart={cart}
                       products={products}
@@ -216,7 +216,7 @@ const App = () => {
                       setRatingList={setRatingList}
                     />
                   </Route>
-                  <Route exact path="/cart">
+                  <Route exact path="/React-Book-Store/cart">
                     <Cart
                       cart={cart}
                       onUpdateCartQty={handleUpdateCartQty}
@@ -224,14 +224,14 @@ const App = () => {
                       onEmptyCart={handleEmptyCart}
                     />
                   </Route>
-                  <Route exact path="/wishlist">
+                  <Route exact path="/React-Book-Store/wishlist">
                     <WishList
                       cart={cart}
                       onAddToCart={handleAddToCart}
                       onRemoveFromCart={handleRemoveFromCart}
                     />
                   </Route>
-                  <Route path="/checkout" exact>
+                  <Route path="/React-Book-Store/checkout" exact>
                     <Checkout
                       cart={cart}
                       order={order}
@@ -239,7 +239,7 @@ const App = () => {
                       error={errorMessage}
                     />
                   </Route>
-                  <Route path="/product-view/:id" exact>
+                  <Route path="/React-Book-Store/product-view/:id" exact>
                     <ProductView
                       onAddToCart={handleAddToCart}
                       setWishList={setWishList}
@@ -248,7 +248,7 @@ const App = () => {
                       setRatingList={setRatingList}
                     />
                   </Route>
-                  <Route path="/manga" exact>
+                  <Route path="/React-Book-Store/manga" exact>
                     <Manga
                       cart={cart}
                       mangaProducts={mangaProducts}
@@ -258,7 +258,7 @@ const App = () => {
                       onRemoveFromCart={handleRemoveFromCart}
                     />
                   </Route>
-                  <Route path="/fiction" exact>
+                  <Route path="/React-Book-Store/fiction" exact>
                     <Fiction
                       cart={cart}
                       fictionProducts={fictionProducts}
@@ -268,7 +268,7 @@ const App = () => {
                       onRemoveFromCart={handleRemoveFromCart}
                     />
                   </Route>
-                  <Route path="/biography" exact>
+                  <Route path="/React-Book-Store/biography" exact>
                     <Biography
                       cart={cart}
                       bioProducts={bioProducts}

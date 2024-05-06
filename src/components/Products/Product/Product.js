@@ -161,7 +161,7 @@ const Product = ({
             </svg>
           </div>
         </div>
-        <Link to={`product-view/${product.id}`}>
+        <Link to={`/React-Book-Store/product-view/${product.id}`}>
           <CardActionArea>
             <CardMedia
               className={`${classes.media} dark:bg-[#05090c!important] bg-white hover:scale-105 duration-500`}
