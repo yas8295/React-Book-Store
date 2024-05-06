@@ -278,7 +278,7 @@ const App = () => {
                       onRemoveFromCart={handleRemoveFromCart}
                     />
                   </Route>
-                  <Route path="*">
+                  <Route path="/React-Book-Store/*">
                     <div className="w-screen h-screen flex flex-col gap-3 justify-center items-center">
                       <NotFound />
                     </div>
