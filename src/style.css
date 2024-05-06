@@ -1,0 +1,145 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.5s ease 0s;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+html.dark {
+  scroll-behavior: smooth;
+  background-color: #000a12;
+  --thumb-color: #ffffff;
+  --scrollbar-color: #153256;
+  --empty-icon-color: #868686;
+  --svg-color: #aaaaaa;
+  --steper-color: #ffffff;
+  --label-focus-color: #8698ff;
+  --input-color: rgb(181, 181, 181);
+  transition: background-color 0.5s;
+  overflow-x: hidden !important;
+}
+
+html {
+  background-color: #fffcfc;
+  scroll-behavior: smooth;
+  --thumb-color: #001524;
+  --scrollbar-color: #e1e1e1;
+  --empty-icon-color: #cbcbcb;
+  --svg-color: #6a6a6a;
+  --steper-color: #000000;
+  --label-focus-color: #3f51b5;
+  --input-color: rgb(102, 102, 102);
+  transition: background-color 0.5s;
+  overflow-x: hidden !important;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  transition: background-color 0.5s;
+}
+
+::-webkit-scrollbar:hover {
+  width: 11px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: var(--scrollbar-color);
+}
+
+::-webkit-scrollbar-thumb {
+  height: 10px;
+  border-radius: 15%;
+  background-color: var(--thumb-color);
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@media (max-width: 960px) {
+  .loader img {
+    height: 320px;
+  }
+}
+
+.carousel .control-dots {
+  position: absolute;
+  bottom: 50px;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 1;
+  scale: 1.5;
+}
+
+button:disabled {
+  cursor: not-allowed !important;
+}
+
+.MuiTooltip-tooltip {
+  font-size: 17px !important;
+}
+
+.Quick-View svg {
+  fill: var(--svg-color);
+}
+
+.MuiRating-iconEmpty {
+  color: var(--empty-icon-color) !important;
+}
+
+.react-responsive-modal-modal::-webkit-scrollbar {
+  display: none;
+}
+
+.Toastify__toast-container--top-center {
+  z-index: 99999999 !important;
+}
+
+.MuiStepLabel-label {
+  color: var(--steper-color) !important;
+  opacity: 0.8;
+}
+
+.MuiStepLabel-label.MuiStepLabel-active {
+  opacity: 1;
+}
+
+.MuiInputLabel-root {
+  color: inherit !important;
+}
+
+.MuiInputBase-input {
+  color: var(--input-color) !important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: var(--label-focus-color) !important;
+}
+
+.MuiInput-underline {
+  border-bottom: 1px solid var(--label-focus-color) !important;
+}
+
+.MuiTypography-colorTextSecondary {
+  color: inherit !important;
+}
+
+.MuiSelect-icon {
+  color: inherit !important;
+}

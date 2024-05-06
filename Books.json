@@ -1,0 +1,1526 @@
+[
+    {
+        "id": "prod_7ZAMo1XVDQwNJ4",
+        "created": 1714660641,
+        "updated": 1714661027,
+        "active": true,
+        "permalink": "x7S8yw",
+        "name": "Three Men in a Boat",
+        "description": "<p><p>by Jerome K. Jerome <em> (Author)</em></p><p><strong>Three Men in a Boat</strong> was first published in 1889. It is the fictional story of three London friends and a dog taking a leisurely boat trip up the River Thames, from Kingston-upon-Thames to Oxford. It is narrated by ‘J.’, whose companions are George (awarded no surname), William Samuel Harris and the dog, Montmorency. During a sociable evening in J.’s room, the three men convince themselves that they each have various illnesses. Their collective diagnosis is overwork, and they prescribe themselves a fortnight’s holiday.  George must work in the City in the morning, and so arranges to join them later that day. The other two, accompanied by the dog and a mountain of luggage, get a cab to Waterloo station, but are unable to find the correct train to Kingston. Eventually they bribe the driver of another train to take them there instead, one of the many humorous set-pieces that make the book more than a straightforward travelogue. George completes the trio at Weybridge, with a dubious-looking parcel tucked under his arm, which turns out to be a banjo and instruction book. The story is a tapestry of incidents that occur, anecdotes on various topics (including the unreliability of weather forecasts), loosely connected digressions (such as J.'s uncle’s inability to hang pictures), and descriptive pieces on the places that they pass. It is in these descriptive pieces that the author’s original intention of writing a guidebook is most apparent. What he actually achieved was a classic of British humorous writing. Although the book was written over a century ago, it has an enduring, timeless quality.</p></p>",
+        "price": {
+            "raw": 99,
+            "formatted": "99.00",
+            "formatted_with_symbol": "$99.00",
+            "formatted_with_code": "99.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/x7S8yw?checkout=true",
+            "display": "https://checkout.chec.io/x7S8yw"
+        },
+        "categories": [],
+        "image": {
+            "id": "ast_4OANwRLAvk5vYL",
+            "url": "https://cdn.chec.io/merchants/56980/assets/KKdiGesDcZ1qal5s|9Nro9JJzjAoTTO5R_5.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "9Nro9JJzjAoTTO5R_5.jpg",
+            "file_size": 223541,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714660432,
+            "updated_at": 1714660436
+        }
+    },
+    {
+        "id": "prod_r2LM5Qedbm5ZV1",
+        "created": 1714661140,
+        "updated": 1714661140,
+        "active": true,
+        "permalink": "NMCIgV",
+        "name": "Othello",
+        "description": "<p><p>by William Shakespeare <em> (Author)</em></p><p><strong>Othello</strong> takes place in 16th-century Venice and also Cyprus. Othello who is a noble black warrior in the Venetian army that secretly married a beautiful white woman called Desdemona who is the daughter of a prominent senator named Brabantio. When he eventually finds out and is completely furious he decides to disown Desdemona.Iago has a secret jealousy and resentment towards Othello because a soldier named Lieutenant Cassio has been put in front of him and also suspects that Othello has been cheating with his wife. Waiting on revenge, Iago plans a devious comeback to plant suspicions in Othello’s mind that Desdemona has been having an affair with Cassio. He decided to start a street fight which Cassio is blamed for, and is then dismissed from his post by Othello. Desdemona takes up Cassio’s case with her husband, which only increases his suspicions that the pair are lovers.While all of this is happening Iago manages to find a treasured handkerchief from Desdemona that was given to her by Othello. He somehow gets the handkerchief on Cassio so that Othello sees it and he finally concludes that the possession is proof of the affair. Due to the jealousy, he orders Iago to murder Cassio. Then Othello decides to strangle Desdemona. Immediately afterwards her innocence is revealed, and Iago’s treachery exposed. In a fit of grief and remorse Othello kills himself and Iago is taken into custody by the authorities.</p></p>",
+        "price": {
+            "raw": 70,
+            "formatted": "70.00",
+            "formatted_with_symbol": "$70.00",
+            "formatted_with_code": "70.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/NMCIgV?checkout=true",
+            "display": "https://checkout.chec.io/NMCIgV"
+        },
+        "categories": [],
+        "image": {
+            "id": "ast_yA6nld7L2B5EWb",
+            "url": "https://cdn.chec.io/merchants/56980/assets/TZfmnPrkyMT6beEI|QShoIhh4WPwnKb82_71cH7dI2kIS-removebg-preview.png",
+            "description": null,
+            "is_image": true,
+            "filename": "QShoIhh4WPwnKb82_71cH7dI2kIS-removebg-preview.png",
+            "file_size": 132311,
+            "file_extension": "png",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714661123,
+            "updated_at": 1714661130
+        }
+    },
+    {
+        "id": "prod_NXELwjVZNew3A4",
+        "created": 1714661259,
+        "updated": 1714661259,
+        "active": true,
+        "permalink": "EmJBr1",
+        "name": "Nationalism",
+        "description": "<p><p>by Rabindranath Tagore <em> (Author)</em></p><p>“And yet I will persist in believing-that there is such a thing as the harmony of completeness in humanity..”A compendium of lectures delivered by Tagore during the First World War and the Swadeshi movement in India, Nationalism emphasises Tagore’s political and philosophical views on human understanding and its weakness for power and material hoardings. Packed with erudition and analysis, it expounds the idea of a moral and spiritual growth for human welfare. the lectures—written in a lucid, metaphoric, poetic prose—are loaded with a piercing vision of the future and are a critique on his views on spirituality and humanity.Tagore was a farsighted visionary, whose forebodings on the lack of human values and the political role of the nation and the state in the East and the West are well articulated in these lectures. Tagore discusses the revival of the East and the challenge it poses to the Western reign, calling for a future based on tolerance, a future where tradition and modernity are balanced.Tagore’s Nationalism holds much relevance in today’s environment of violence and intolerance.</p></p>",
+        "price": {
+            "raw": 69,
+            "formatted": "69.00",
+            "formatted_with_symbol": "$69.00",
+            "formatted_with_code": "69.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/EmJBr1?checkout=true",
+            "display": "https://checkout.chec.io/EmJBr1"
+        },
+        "categories": [],
+        "image": {
+            "id": "ast_VPvL5zZV6Q5AQk",
+            "url": "https://cdn.chec.io/merchants/56980/assets/HUi9BFZtpJORETRw|pJbSH5L3KUwFl7Tf_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "pJbSH5L3KUwFl7Tf_1.jpg",
+            "file_size": 289756,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661247,
+            "updated_at": 1714661256
+        }
+    },
+    {
+        "id": "prod_L1vOoZQzkPwRa8",
+        "created": 1714661336,
+        "updated": 1714661368,
+        "active": true,
+        "permalink": "cv97My",
+        "name": "As a Man Thinketh",
+        "description": "<p></p><p><p>by James Allen <em> (Author)</em></p><p>In <strong>As a Man Thinketh</strong>, James Allen points out the power of thoughts in shaping our realities. Often, we think that we are the victims of circumstance while in truth our thoughts, actions, and habits create the circumstances we dislike. The solution is to cultivate better thoughts just like we would treat a garden. Everyone should read it</p><p>Can you think of a single moment in the whole day when your mind is blank and thoughtless?Do you know how powerful every thought is?“Cherish your visions; cherish your ideals; cherish the music that stirs in your heart, the beauty that forms in your mind, the loveliness that drapes your purest thoughts, for out of them will grow all delightful conditions, all heavenly environment; of these, if you but remain true to them, your world will at last be built.”Giving an insight into the power of thoughts; the effect they have on our health, body and circumstances; and how we become what we think; this compelling literary essay by James Allen contains practical wisdom which will inspire, enlighten and help us discover our hidden powers.Written in a spiritual tone, As a Man Thinketh has been a valuable source of inspiration ever since its first publication in 1903. It continues to remain a classic bestseller.</p></p>",
+        "price": {
+            "raw": 59,
+            "formatted": "59.00",
+            "formatted_with_symbol": "$59.00",
+            "formatted_with_code": "59.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/cv97My?checkout=true",
+            "display": "https://checkout.chec.io/cv97My"
+        },
+        "categories": [
+            {
+                "id": "cat_Op1YoV8GylXLv9",
+                "slug": "featured",
+                "name": "featured"
+            }
+        ],
+        "image": {
+            "id": "ast_nPEVlNrmKAla7d",
+            "url": "https://cdn.chec.io/merchants/56980/assets/WeEqgjoEJ1Z5QeLR|jmHrbyaTb3c6aRym_book1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "jmHrbyaTb3c6aRym_book1.jpg",
+            "file_size": 234366,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661317,
+            "updated_at": 1714661322
+        }
+    },
+    {
+        "id": "prod_0YnEoq1nJ1oe7P",
+        "created": 1714661447,
+        "updated": 1714661475,
+        "active": true,
+        "permalink": "lqEde3",
+        "name": "The Jungle Book",
+        "description": "<p><p>by Rudyard Kipling <em> (Author)</em></p><p><strong>In The Jungle Book</strong>, a young boy named Mowgli becomes a member of the Seeonee Wolf Pack. A cruel tiger named Shere Khan plots against Mowgli and the leader of his pack, Akela. When Mowgli grows up, he realizes that he must rejoin the ranks of men.</p><p>Mowgli strays from his village one day. After being attacked by Shere Khan, he's saved by Father Wolf, who asks Akela, the leader of the wolves, to accept Mowgli as a member of the pack.</p><p></p><p>Mowgli briefly returns to the world of men, but leaves after he learns that Shere Khan has been plotting against Akela. He defeats the tiger, but knows that someday he will rejoin the man-pack.</p><p>A python named Kaa takes Mowgli down to the Cold Lairs, where he steals an ankus. He discards the ankus, fearing its deadly curse. This results in the death of six men. After this incident, Mowgli becomes unhappy and gradually drifts toward the world of men.</p></p>",
+        "price": {
+            "raw": 99,
+            "formatted": "99.00",
+            "formatted_with_symbol": "$99.00",
+            "formatted_with_code": "99.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/lqEde3?checkout=true",
+            "display": "https://checkout.chec.io/lqEde3"
+        },
+        "categories": [
+            {
+                "id": "cat_4WJvlKEmaobYV1",
+                "slug": "fiction",
+                "name": "fiction"
+            }
+        ],
+        "image": {
+            "id": "ast_9BAmwJ0bp15eXd",
+            "url": "https://cdn.chec.io/merchants/56980/assets/vOXGWKqPeD4L9dIl|cvLwYNXyje5f45bW_2.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "cvLwYNXyje5f45bW_2.jpg",
+            "file_size": 351287,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714661437,
+            "updated_at": 1714661444
+        }
+    },
+    {
+        "id": "prod_kd6Ll2v3y3lV2m",
+        "created": 1714661583,
+        "updated": 1714661617,
+        "active": true,
+        "permalink": "S6bZTP",
+        "name": "The Story of My Life",
+        "description": "<p><p>by Helen Keller <em> (Author)</em></p><p><strong>The Story of My Life Summary:</strong> The Story of my life is the story of Helen Keller who triumphed over adversity and became world famous. She was born on June 27, 1880 in Tuscumbia, Alabama. Her parents were Captain Arthur Henry Keller, a confederate army veteran and a newspaper editor and Kate Adams Keller. She was born as a normal child. But at the age of 19 months, she suffered an illness that left her deaf and blind. Her family wondered how a deaf and blind child could be educated. At the age of six, her mother managed to get a teacher, Anne Sullivan, to teach Helen. After studying at the Wright Humason School for the Deaf and the Cambridge School for Young ladies, she entered Radcliff College in 1900 and finished her graduation in 1904.</p><p>The Story of My Life is a true example that Helen’s life is neither a miracle nor a joke. With the help of her teacher, Anne Sullivan, Helen became an inter-nationally recognized and respected figure. In 1908 Helen published “The World I Live In”, an account of how she experienced the world through touch, taste and scent.</p></p>",
+        "price": {
+            "raw": 149,
+            "formatted": "149.00",
+            "formatted_with_symbol": "$149.00",
+            "formatted_with_code": "149.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/S6bZTP?checkout=true",
+            "display": "https://checkout.chec.io/S6bZTP"
+        },
+        "categories": [
+            {
+                "id": "cat_zkK6oL6EGlXn0Q",
+                "slug": "biography",
+                "name": "biography"
+            }
+        ],
+        "image": {
+            "id": "ast_ZM8X5nx9rJwpv4",
+            "url": "https://cdn.chec.io/merchants/56980/assets/L15DzkVdYY9hKFSe|3tHrxL1JReWwXWUv_3.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "3tHrxL1JReWwXWUv_3.jpg",
+            "file_size": 193773,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714661570,
+            "updated_at": 1714661576
+        }
+    },
+    {
+        "id": "prod_4OANwR8dxq5vYL",
+        "created": 1714661692,
+        "updated": 1714661692,
+        "active": true,
+        "permalink": "BtNMAa",
+        "name": "The Sherlock Holmes",
+        "description": "<p><p>by Arthur Conan Doyle <em> (Author)</em></p><p><strong>The Adventures of Sherlock Holmes</strong> is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892. It contains the earliest short stories featuring the consulting detective Sherlock Holmes, which had been published in twelve monthly issues of <em>The Strand Magazine</em> from July 1891 to June 1892. The stories are collected in the same sequence, which is not supported by any fictional chronology. The only characters common to all twelve are Holmes and Dr. Watson and all are related in first-person narrative from Watson's point of view.</p><p>In general the stories in <em>The Adventures of Sherlock Holmes</em> identify, and try to correct, social injustices. Holmes is portrayed as offering a new, fairer sense of justice. The stories were well received, and boosted the subscriptions figures of <em>The Strand Magazine</em>, prompting Doyle to be able to demand more money for his next set of stories. The first story, \\\"A Scandal in Bohemia\\\", includes the character of Irene Adler, who, despite being featured only within this one story by Doyle, is a prominent character in modern Sherlock Holmes adaptations, generally as a love interest for Holmes. Doyle included four of the twelve stories from this collection in his twelve favourite Sherlock Holmes stories, picking \\\"The Adventure of the Speckled Band\\\" as his overall favourite.</p></p>",
+        "price": {
+            "raw": 136,
+            "formatted": "136.00",
+            "formatted_with_symbol": "$136.00",
+            "formatted_with_code": "136.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/BtNMAa?checkout=true",
+            "display": "https://checkout.chec.io/BtNMAa"
+        },
+        "categories": [
+            {
+                "id": "cat_4WJvlKEmaobYV1",
+                "slug": "fiction",
+                "name": "fiction"
+            }
+        ],
+        "image": {
+            "id": "ast_gvRjwObELAl4mN",
+            "url": "https://cdn.chec.io/merchants/56980/assets/ZWkHaS1mLOmEiEYJ|L2Cj334oBGjdbHmK_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "L2Cj334oBGjdbHmK_1.jpg",
+            "file_size": 279132,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661680,
+            "updated_at": 1714661690
+        }
+    },
+    {
+        "id": "prod_yA6nld6Vv7oEWb",
+        "created": 1714661770,
+        "updated": 1714661770,
+        "active": true,
+        "permalink": "3SFs9u",
+        "name": "Relativity",
+        "description": "<p><p>by Albert Einstein <em> (Author)</em></p><p>It is known as <strong>special relativity</strong> because it applies only to <strong>special</strong> cases: frames of reference in constant, unchanging motion. In 1915, Einstein published the <strong>general theory</strong> of <strong>relativity</strong>, which applies to frames that are accelerating with regard to each other. Time does not pass at the same rate for everyone.</p><p>‘When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.’Dealing with the theory of relativity—special relativity and general relativity—and the considerations on the universe as a whole, this book gives an insight into the scientific theory about the relationship between space and time, the theory of gravitation and the universe.A Nobel laureate, Einstein’s research and theories changed the world. First published in 1916, Relativity: The Special and the General Theory is regarded as the most significant work in modern physics. It continues to remain popular and highly influential.</p></p>",
+        "price": {
+            "raw": 129,
+            "formatted": "129.00",
+            "formatted_with_symbol": "$129.00",
+            "formatted_with_code": "129.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/3SFs9u?checkout=true",
+            "display": "https://checkout.chec.io/3SFs9u"
+        },
+        "categories": [
+            {
+                "id": "cat_Op1YoV8GylXLv9",
+                "slug": "featured",
+                "name": "featured"
+            }
+        ],
+        "image": {
+            "id": "ast_N7GKwbGVqNo3EX",
+            "url": "https://cdn.chec.io/merchants/56980/assets/0dVGlqxxTMpwELGA|il0F5AytRzE9fdoO_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "il0F5AytRzE9fdoO_1.jpg",
+            "file_size": 320597,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661762,
+            "updated_at": 1714661768
+        }
+    },
+    {
+        "id": "prod_VPvL5zreJM5AQk",
+        "created": 1714661873,
+        "updated": 1714661873,
+        "active": true,
+        "permalink": "rHE299",
+        "name": "The Origin of Species",
+        "description": "<p><p>by Charles Darwin <em> (Author)</em></p><p>Darwin’s theory is based on the notion of variation. It argues that the numerous traits and adaptations that differentiate species from each other also explain how species evolved over time and gradually diverged. Variations in organisms are apparent both within domesticated species and within species throughout the natural world. Variations in colors, structures, organs, and physical traits differentiate a multitude of species from one another. Heredity is the mechanism that perpetuates variations, Darwin argues, as traits are passed from parents to offspring. What is important about these variations to Darwin, though, is the way they allow species to adapt and survive in the natural world. He gives numerous examples of variations that illustrate the wondrous adaptations that allow species to survive in their natural environments: the beak that allows the woodpecker to gather insects, the wings that allow the bat to fly, the paddles that allow the porpoise to swim, and so on. Darwin hypothesizes that the minor variations we see within a single species—such as variations in size, shape, and color of organisms—are related to the more distinct variations seen across different species. His theory of evolution explains how variations cause the origin of species.</p></p>",
+        "price": {
+            "raw": 150,
+            "formatted": "150.00",
+            "formatted_with_symbol": "$150.00",
+            "formatted_with_code": "150.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/rHE299?checkout=true",
+            "display": "https://checkout.chec.io/rHE299"
+        },
+        "categories": [
+            {
+                "id": "cat_Op1YoV8GylXLv9",
+                "slug": "featured",
+                "name": "featured"
+            }
+        ],
+        "image": {
+            "id": "ast_ZRjywMabV4w7Y8",
+            "url": "https://cdn.chec.io/merchants/56980/assets/4je5v3kMncE4MisS|pihstQgqSOde2WFB_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "pihstQgqSOde2WFB_1.jpg",
+            "file_size": 224228,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661866,
+            "updated_at": 1714661872
+        }
+    },
+    {
+        "id": "prod_nPEVlNbdOyla7d",
+        "created": 1714661957,
+        "updated": 1714661957,
+        "active": true,
+        "permalink": "O4WbA7",
+        "name": "The Art of War",
+        "description": "<p><p>by Sun Tzu <em> (Author)</em></p><p><strong>Sun Tzu</strong> was a Chinese general, military strategist and a philosopher whose books have universal resonance even in the contemporary time. <strong>The Art of War</strong> has inspired Mao Zedong’s writings about Guerrilla warfare. Ho Chi Minh translated The Art of War for his generals to study.</p><p>Sun Tzu’s Art of War is a widely acclaimed book on military strategy that has influenced and shaped the idea of Western and Eastern nations military philosophy. It presents complete instructions on how to win battles and manage conflicts. The theories proposed in Art of War are extremely beneficial on the battle ground and has been tried and tested by many successful military generals around the world. It is difficult to ascertain exactly when was this book written and many historians have ascribed it to different times.</p><p>The Art of War has established its significance not just as a valuable book for military strategies but it also gives lesson in diplomacy and public administration and planning. It stresses on the need for healthy and friendly relations with other nations. In the context of changing world politics and rising interest in foreign policy affairs. This book will be of special interest to people who want to read philosophy, the amazing quotes about life, winning battles and how to tide over daily struggles then it’s a must read for you.</p></p>",
+        "price": {
+            "raw": 39,
+            "formatted": "39.00",
+            "formatted_with_symbol": "$39.00",
+            "formatted_with_code": "39.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/O4WbA7?checkout=true",
+            "display": "https://checkout.chec.io/O4WbA7"
+        },
+        "categories": [
+            {
+                "id": "cat_Op1YoV8GylXLv9",
+                "slug": "featured",
+                "name": "featured"
+            }
+        ],
+        "image": {
+            "id": "ast_aZWNoyqrENo80J",
+            "url": "https://cdn.chec.io/merchants/56980/assets/v6dh7Jw4kAFD2S3C|HqU0EVvijKqWdorm_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "HqU0EVvijKqWdorm_1.jpg",
+            "file_size": 187340,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 519
+            },
+            "meta": [],
+            "created_at": 1714661949,
+            "updated_at": 1714661954
+        }
+    },
+    {
+        "id": "prod_9BAmwJOP33oeXd",
+        "created": 1714662042,
+        "updated": 1714662042,
+        "active": true,
+        "permalink": "X2xGaU",
+        "name": "A Little Princess",
+        "description": "<p><p>by Frances Hodgson Burnett <em> (Author)</em></p><p>A Little Princess is a children's novel by Frances Hodgson Burnett, first published as a book in 1905. It is an expanded version of the short story \\\"Sara Crewe: or, What Happened at Miss Minchin's\\\", which was serialized in St. Nicholas Magazine from December 1887, and published in book form in 1888. According to Burnett, after she composed the 1902 play A Little Un-fairy Princess based on that story, her publisher asked that she expand the story as a novel with \\\"the things and people that had been left out before\\\". Captain Ralph Crewe, a wealthy English widower, has been raising his only child, Sara, in India where he is stationed with the British Army. Because the Indian climate is considered too harsh for children, British families living there traditionally send their children to boarding school back home in England.</p></p>",
+        "price": {
+            "raw": 139,
+            "formatted": "139.00",
+            "formatted_with_symbol": "$139.00",
+            "formatted_with_code": "139.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/X2xGaU?checkout=true",
+            "display": "https://checkout.chec.io/X2xGaU"
+        },
+        "categories": [],
+        "image": {
+            "id": "ast_BkyN5Y6GgLl0b6",
+            "url": "https://cdn.chec.io/merchants/56980/assets/55pcDZvRK9N24TDE|OeHGkKjbw76Fu6li_71gkdmrYTrL.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "OeHGkKjbw76Fu6li_71gkdmrYTrL.jpg",
+            "file_size": 335818,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714662028,
+            "updated_at": 1714662039
+        }
+    },
+    {
+        "id": "prod_mOVKl49kyLwprR",
+        "created": 1714662099,
+        "updated": 1714662099,
+        "active": true,
+        "permalink": "qdwFjP",
+        "name": "A Passage To India",
+        "description": "<p><p>by E. M. Forster (Author)</p><p>“We may hate one another, but we hate you most... Yes, we shall drive every blasted Englishman into the sea.” on that fateful day, when Dr. Aziz took Mrs. Moore and Miss adela quest to the famous marabar caves, he had no idea that his whole life was about to turn upside down. All Aziz had done was kindly offer to show the ‘real’ India to the two englishwomen who had newly arrived in his country. But on the day of the excursion, upon returning from the caves, he was slapped with the accusation of a sexual assault. What happens when Aziz is brought to Court? Does the man get justice? Or has his race earmarked him for prison? Set in the fictional town of Chandernagore, in the pre-Independence era of India, a passage to India portrays colonialism, racial prejudice, and the dynamics of Anglo-Indian relations with striking realism. Considered forster’s most successful novel, it was adapted into a film in 1984, and was featured in time magazine list of hundred best English-language novels from 1923 to 2005.</p></p>",
+        "price": {
+            "raw": 189,
+            "formatted": "189.00",
+            "formatted_with_symbol": "$189.00",
+            "formatted_with_code": "189.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/qdwFjP?checkout=true",
+            "display": "https://checkout.chec.io/qdwFjP"
+        },
+        "categories": [
+            {
+                "id": "cat_4WJvlKEmaobYV1",
+                "slug": "fiction",
+                "name": "fiction"
+            }
+        ],
+        "image": {
+            "id": "ast_31q0o3PKXg5Ddj",
+            "url": "https://cdn.chec.io/merchants/56980/assets/62DfbGflvVCmRfUF|SgZD7wLYNIwK97u8_71K-InZRoUL.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "SgZD7wLYNIwK97u8_71K-InZRoUL.jpg",
+            "file_size": 393026,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714662090,
+            "updated_at": 1714662097
+        }
+    },
+    {
+        "id": "prod_ZM8X5n7MR6lpv4",
+        "created": 1714662216,
+        "updated": 1714662216,
+        "active": true,
+        "permalink": "odW3f7",
+        "name": "Ghosts of The Silent Hills",
+        "description": "<p><p>by Anita Krishan (Author)</p><p>The dead do not rest till they get what they want. You have arrived in the hills. In here, you are surrounded by dense, menacing forests, enveloped in a deadly silence... You never know what lurks here in the Cold, dark night. Do not walk alone after sunset in the hills. A beautiful woman in white haunts the Lonely pathways, looking to enchant and ensnare men... All the people who died in accidents here... They say you hear their screams at night. And the deserted lodges sitting amidst lush greenery and calm streams... Spirits lie in wait here, ready to prey on the living. There are sceptics who did not heed these warnings. They tried to rationalize what they saw, what they felt. But when they came face to face with the beings that they believed didn’t exist, they couldn’t run away anymore... Ghosts of the silent hills is a collection that will make your nights a little scarier, encompassing the very best spine-chilling stories based on true hauntings.</p></p>",
+        "price": {
+            "raw": 159,
+            "formatted": "159.00",
+            "formatted_with_symbol": "$159.00",
+            "formatted_with_code": "159.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/odW3f7?checkout=true",
+            "display": "https://checkout.chec.io/odW3f7"
+        },
+        "categories": [
+            {
+                "id": "cat_4WJvlKEmaobYV1",
+                "slug": "fiction",
+                "name": "fiction"
+            }
+        ],
+        "image": {
+            "id": "ast_p6dP5gRkmgon7k",
+            "url": "https://cdn.chec.io/merchants/56980/assets/IlOQOJVGH1totWCG|rpXLx3xlXM1iWs5h_71NUqTiGrOL.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "rpXLx3xlXM1iWs5h_71NUqTiGrOL.jpg",
+            "file_size": 362534,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714662190,
+            "updated_at": 1714662201
+        }
+    },
+    {
+        "id": "prod_gvRjwO8XyGo4mN",
+        "created": 1714662332,
+        "updated": 1714662332,
+        "active": true,
+        "permalink": "qmehHb",
+        "name": "Treasure Island",
+        "description": "<p><p>by Robert Louis Stevenson (Author)</p><p>Think of the high seas and of a buccaneer ship; of a wild seaman with a sea chest full of gold; of Long John Silver; of a buried treasure and of young Jim Hawkins, the boy with the treasure map the key to it all. This is the Treasure Island and if you don't think of all this, the pirates will hunt you down and when they find you, for find you they sure will, they will trust you and carry you back to their ship and just before they feed you to the sharks, as you walk the gangplank with a sword digging sharp and sure into your back, they will sing their one last song for you. “Fifteen men on the dead man's chest Yo-ho-ho and a bottle of rum!”</p></p>",
+        "price": {
+            "raw": 169,
+            "formatted": "169.00",
+            "formatted_with_symbol": "$169.00",
+            "formatted_with_code": "169.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/qmehHb?checkout=true",
+            "display": "https://checkout.chec.io/qmehHb"
+        },
+        "categories": [
+            {
+                "id": "cat_4WJvlKEmaobYV1",
+                "slug": "fiction",
+                "name": "fiction"
+            }
+        ],
+        "image": {
+            "id": "ast_AYrQlWmKqronbR",
+            "url": "https://cdn.chec.io/merchants/56980/assets/9WZ4e4dX4wkXvcMV|cqpteRf6VzYXJeLC_71+f+GXLk4L (1).jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "cqpteRf6VzYXJeLC_71+f+GXLk4L (1).jpg",
+            "file_size": 275448,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 480,
+                "height": 520
+            },
+            "meta": [],
+            "created_at": 1714662301,
+            "updated_at": 1714662309
+        }
+    },
+    {
+        "id": "prod_N7GKwbmDvXl3EX",
+        "created": 1714662383,
+        "updated": 1714663024,
+        "active": true,
+        "permalink": "J4B62E",
+        "name": "Bleach Volume 1",
+        "description": "<p><p>by Tite Kubo <em>(Author)</em></p><p></p><p><strong>Ichigo Kurosaki</strong> has always been able to see ghosts, but this ability doesn’t change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia–who is slowly regaining her powers–it’s Ichigo’s job to protect the innocent from Hollows and help the spirits themselves find peace.</p></p>",
+        "price": {
+            "raw": 189,
+            "formatted": "189.00",
+            "formatted_with_symbol": "$189.00",
+            "formatted_with_code": "189.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/J4B62E?checkout=true",
+            "display": "https://checkout.chec.io/J4B62E"
+        },
+        "categories": [
+            {
+                "id": "cat_DWy4oGRdzw6Jx2",
+                "slug": "manga",
+                "name": "manga"
+            }
+        ],
+        "image": {
+            "id": "ast_G6kVw71eQ252eD",
+            "url": "https://cdn.chec.io/merchants/56980/assets/FXZWCZ97iPKDuUBN|56bVaHgITXTfOk2s_bleach-volume-1-by-tite-kubo.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "56bVaHgITXTfOk2s_bleach-volume-1-by-tite-kubo.jpg",
+            "file_size": 179016,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 520,
+                "height": 480
+            },
+            "meta": [],
+            "created_at": 1714662376,
+            "updated_at": 1714662381
+        }
+    },
+    {
+        "id": "prod_ZRjywMPnxzl7Y8",
+        "created": 1714663079,
+        "updated": 1714663079,
+        "active": true,
+        "permalink": "CVL1on",
+        "name": "Chainsawman Vol 1",
+        "description": "<p><p>By Tatsuki Fujimoto<em> (Author)</em></p><p></p><p>Denji’s a poor young man who’ll do anything for money, even hunting down devils with his pet devil Pochita. He’s a simple man with simple dreams, drowning under a mountain of debt. But his sad life gets turned upside down one day when he’s betrayed by someone he trusts. Now with the power of a devil inside him, Denji’s become a whole new man—Chainsaw Man!</p></p>",
+        "price": {
+            "raw": 199,
+            "formatted": "199.00",
+            "formatted_with_symbol": "$199.00",
+            "formatted_with_code": "199.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/CVL1on?checkout=true",
+            "display": "https://checkout.chec.io/CVL1on"
+        },
+        "categories": [
+            {
+                "id": "cat_DWy4oGRdzw6Jx2",
+                "slug": "manga",
+                "name": "manga"
+            }
+        ],
+        "image": {
+            "id": "ast_O3bR5XELOQlnzd",
+            "url": "https://cdn.chec.io/merchants/56980/assets/kwaa3i0skc1kS22t|iCRRYHh0fJpw5Lxi_chainsawman-vol-1-by-tatsuki-fujimoto.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "iCRRYHh0fJpw5Lxi_chainsawman-vol-1-by-tatsuki-fujimoto.jpg",
+            "file_size": 229228,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 520,
+                "height": 480
+            },
+            "meta": [],
+            "created_at": 1714663063,
+            "updated_at": 1714663069
+        }
+    },
+    {
+        "id": "prod_aZWNoyzWJE580J",
+        "created": 1714663126,
+        "updated": 1714663126,
+        "active": true,
+        "permalink": "3xXjQS",
+        "name": "Dragon Ball Vol 1",
+        "description": "<p><p></p><p>By Akira Toriyama <em>(Author)</em></p><p></p><p>Before there was Dragon Ball Z, there was Akira Toriyama’s action epic Dragon Ball, starring the younger version of Son Goku and all the other Dragon Ball Z heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven “Dragon Balls.” If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku’s help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime…</p></p>",
+        "price": {
+            "raw": 299,
+            "formatted": "299.00",
+            "formatted_with_symbol": "$299.00",
+            "formatted_with_code": "299.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/3xXjQS?checkout=true",
+            "display": "https://checkout.chec.io/3xXjQS"
+        },
+        "categories": [
+            {
+                "id": "cat_DWy4oGRdzw6Jx2",
+                "slug": "manga",
+                "name": "manga"
+            }
+        ],
+        "image": {
+            "id": "ast_RyWOwmM9axwnEa",
+            "url": "https://cdn.chec.io/merchants/56980/assets/VOTOghKOdKXCaqgO|VkMTmBy9ZSPbSnZn_dragon-ball-manga-vol-1-by-akira-toriyama.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "VkMTmBy9ZSPbSnZn_dragon-ball-manga-vol-1-by-akira-toriyama.jpg",
+            "file_size": 210749,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 520,
+                "height": 480
+            },
+            "meta": [],
+            "created_at": 1714663116,
+            "updated_at": 1714663120
+        }
+    },
+    {
+        "id": "prod_BkyN5YQRk950b6",
+        "created": 1714663184,
+        "updated": 1714663184,
+        "active": true,
+        "permalink": "5f3b62",
+        "name": "Naruto 3 In 1 Edition",
+        "description": "<p></p><p><p>By Masashi Kishimoto <em>(Author)</em></p><p></p><p>The world’s most popular ninja comic! <strong>Naruto </strong>is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but <strong>Naruto </strong>is completely serious about his mission to be the world’s greatest ninja! Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the lives of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!</p></p>",
+        "price": {
+            "raw": 249,
+            "formatted": "249.00",
+            "formatted_with_symbol": "$249.00",
+            "formatted_with_code": "249.00 USD"
+        },
+        "inventory": {
+            "managed": false,
+            "available": 0
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_inventory_managed": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": false,
+            "collects_billing_address": false,
+            "collects_extra_fields": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "inventory_managed": false,
+            "sold_out": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": false,
+            "billing_address": false,
+            "extra_fields": false
+        },
+        "checkout_url": {
+            "checkout": "https://checkout.chec.io/5f3b62?checkout=true",
+            "display": "https://checkout.chec.io/5f3b62"
+        },
+        "categories": [
+            {
+                "id": "cat_DWy4oGRdzw6Jx2",
+                "slug": "manga",
+                "name": "manga"
+            }
+        ],
+        "image": {
+            "id": "ast_ypbroEObmXl8n4",
+            "url": "https://cdn.chec.io/merchants/56980/assets/41SSPCaN3yJa42cU|VNRc4YS0sXdnbmUM_naruto-manga.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "VNRc4YS0sXdnbmUM_naruto-manga.jpg",
+            "file_size": 223454,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 520,
+                "height": 480
+            },
+            "meta": [],
+            "created_at": 1714663172,
+            "updated_at": 1714663179
+        }
+    }
+]
