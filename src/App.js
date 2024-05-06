@@ -216,18 +216,6 @@ const App = () => {
                       setRatingList={setRatingList}
                     />
                   </Route>
-                  <Route exact path="/React-Book-Store">
-                    <Products
-                      cart={cart}
-                      products={products}
-                      setWishList={setWishList}
-                      featureProducts={featureProducts}
-                      onAddToCart={handleAddToCart}
-                      handleUpdateCartQty
-                      onRemoveFromCart={handleRemoveFromCart}
-                      setRatingList={setRatingList}
-                    />
-                  </Route>
                   <Route exact path="/cart">
                     <Cart
                       cart={cart}
