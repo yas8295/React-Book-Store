@@ -34,7 +34,7 @@ const CartItem = ({ item, onUpdateCartQty, onRemoveFromCart }) => {
   return (
     <ProductTransition>
       <Card className="cart-item relative dark:border-[0.2px] dark:border-[#10b4ff]">
-        <Link to={`/product-view/${item.product_id}`}>
+        <Link to={`/React-Book-Store/product-view/${item.product_id}`}>
           <CardMedia
             image={item.image.url}
             alt={item.name}

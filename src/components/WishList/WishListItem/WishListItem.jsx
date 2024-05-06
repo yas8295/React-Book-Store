@@ -34,7 +34,7 @@ const WishListItem = ({ item, onAddToCart, cart, onRemoveFromCart }) => {
   return (
     <ProductTransition>
       <Card className="cart-item relative dark:border-[0.2px] dark:border-[#10b4ff] grow h-full self-stretch">
-        <Link to={`/product-view/${item.id}`}>
+        <Link to={`/React-Book-Store/product-view/${item.id}`}>
           <CardMedia
             image={item.image?.url}
             alt={item.name}

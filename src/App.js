@@ -283,6 +283,11 @@ const App = () => {
                       <NotFound />
                     </div>
                   </Route>
+                  <Route path="*">
+                    <div className="w-screen h-screen flex flex-col gap-3 justify-center items-center">
+                      <NotFound />
+                    </div>
+                  </Route>
                 </Switch>
               </div>
             </Router>
