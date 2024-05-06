@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d1d8f69.css",
-    "main.js": "/static/js/main.9206dfa4.js",
-    "static/media/Bookshop.gif": "/static/media/Bookshop.4e55c974dd9bc7189717.gif",
-    "static/media/loader.gif": "/static/media/loader.1337d3bd592af8eed19f.gif",
-    "static/media/pngwing.com.png": "/static/media/pngwing.com.e6ce4c9d930eb79c4a89.png",
-    "static/media/biography.jpg": "/static/media/biography.f9e6220977cb116db3f6.jpg",
-    "static/media/fiction.jpg": "/static/media/fiction.a3c9284924a212561034.jpg",
-    "static/media/BookshopDark.png": "/static/media/BookshopDark.6bcfddd5d823ff5582ba.png",
-    "static/media/maxresdefault.jpg": "/static/media/maxresdefault.6ff7397292b8e0639c64.jpg",
-    "static/media/7893960.png": "/static/media/7893960.007933f8dc95c8888069.png",
-    "static/media/circles.png": "/static/media/circles.0e0f82e29821aa79cbd5.png",
-    "index.html": "/index.html",
-    "main.9d1d8f69.css.map": "/static/css/main.9d1d8f69.css.map",
-    "main.9206dfa4.js.map": "/static/js/main.9206dfa4.js.map"
+    "main.css": "/React-Book-Store/static/css/main.9d1d8f69.css",
+    "main.js": "/React-Book-Store/static/js/main.a3e97044.js",
+    "static/media/Bookshop.gif": "/React-Book-Store/static/media/Bookshop.4e55c974dd9bc7189717.gif",
+    "static/media/loader.gif": "/React-Book-Store/static/media/loader.1337d3bd592af8eed19f.gif",
+    "static/media/pngwing.com.png": "/React-Book-Store/static/media/pngwing.com.e6ce4c9d930eb79c4a89.png",
+    "static/media/biography.jpg": "/React-Book-Store/static/media/biography.f9e6220977cb116db3f6.jpg",
+    "static/media/fiction.jpg": "/React-Book-Store/static/media/fiction.a3c9284924a212561034.jpg",
+    "static/media/BookshopDark.png": "/React-Book-Store/static/media/BookshopDark.6bcfddd5d823ff5582ba.png",
+    "static/media/maxresdefault.jpg": "/React-Book-Store/static/media/maxresdefault.6ff7397292b8e0639c64.jpg",
+    "static/media/7893960.png": "/React-Book-Store/static/media/7893960.007933f8dc95c8888069.png",
+    "static/media/circles.png": "/React-Book-Store/static/media/circles.0e0f82e29821aa79cbd5.png",
+    "index.html": "/React-Book-Store/index.html",
+    "main.9d1d8f69.css.map": "/React-Book-Store/static/css/main.9d1d8f69.css.map",
+    "main.a3e97044.js.map": "/React-Book-Store/static/js/main.a3e97044.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1d8f69.css",
-    "static/js/main.9206dfa4.js"
+    "static/js/main.a3e97044.js"
   ]
 }
