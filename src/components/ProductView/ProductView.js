@@ -1,6 +1,9 @@
 import React, { useContext } from "react";
 import { Container, Grid, Button } from "@material-ui/core";
-import { Link } from "react-router-dom/cjs/react-router-dom.min.js";
+import {
+  Link,
+  useRouteMatch,
+} from "react-router-dom/cjs/react-router-dom.min.js";
 import { commerce } from "../../lib/commerce";
 import { useState, useEffect } from "react";
 import "./style.css";
@@ -23,8 +26,11 @@ const ProductView = ({
   const { dark } = useContext(contexts);
   const [loading, setLoading] = useState(false);
   const [product, setProduct] = useState(null);
-  const id = window.location.pathname.split("/");
   const classes = useStyles();
+
+  const { url } = useRouteMatch();
+  const urlSplit = url.split("/");
+  const id = urlSplit[urlSplit.length - 1];
 
   const createMarkup = (text) => {
     return { __html: text };
@@ -74,7 +80,7 @@ const ProductView = ({
       left: 0,
       behavior: "smooth",
     });
-    fetchProduct(id[2]);
+    fetchProduct(id);
   }, []);
 
   if (!product) {
