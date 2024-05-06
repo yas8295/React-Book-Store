@@ -215,7 +215,7 @@ const ProductView = ({
                 disabled={loading}
                 size="large"
                 className={`${classes.button} custom-button mt-2 w-full`}
-                onClick={() => handleUpdateCart(id[2], 1)}
+                onClick={() => handleUpdateCart(id, 1)}
               >
                 {loading ? (
                   <ClipLoader color="white" loading size={25} />
