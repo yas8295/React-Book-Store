@@ -171,7 +171,7 @@ const Products = ({
             whileInView={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.4 }}
           >
-            <Link to="manga">
+            <Link to="/React-Book-Store/manga">
               <button
                 className={classes.categoryButton}
                 style={{ backgroundImage: `url(${mangaBg})` }}
@@ -186,7 +186,7 @@ const Products = ({
             whileInView={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.4 }}
           >
-            <Link to="biography">
+            <Link to="/React-Book-Store/biography">
               <button
                 className={classes.categoryButton}
                 style={{ backgroundImage: `url(${bioBg})` }}
@@ -201,7 +201,7 @@ const Products = ({
             whileInView={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.4 }}
           >
-            <Link to="fiction">
+            <Link to="/React-Book-Store/fiction">
               <button
                 className={classes.categoryButton}
                 style={{ backgroundImage: `url(${fictionBg})` }}
