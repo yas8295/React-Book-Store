@@ -122,7 +122,7 @@ const Product = ({
           handleUpdateWishList={handleUpdateWishList}
         ></QuickViewProduct>
         <div
-          className="heart-container md:w-7 md:h-7 w-6 h-6 absolute md:right-2 right-1 top-1 z-10"
+          className="heart-container md:w-7 md:h-7 w-6 h-6 absolute md:right-2 right-3 top-1 z-10"
           title="Like"
         >
           <input
